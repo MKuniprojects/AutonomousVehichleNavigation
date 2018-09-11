@@ -1,0 +1,2 @@
+# AutonomousVehichleNavigation
+A vehicle is developed which aims to navigate autonomously within an artificial road lane. The implementation of the project is carried out by using the Raspberry Pi 3 computer as well as a web camera, which is mounted on the vehicle. Thus, based on the frames received by the camera and its processing by the program’s algorithms, the vehicle’s wheels are controlled by a motor driver, so that it maintains its course within the appropriate limits. 
